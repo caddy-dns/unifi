@@ -30,8 +30,8 @@ github.com/letsencrypt/pebble/v2 v2.10.0 h1:Wq6gYXlsY6ubqI3hhxsTzdyotvfdjFBxuwYq
 github.com/letsencrypt/pebble/v2 v2.10.0/go.mod h1:Sk8cmUIPcIdv2nINo+9PB4L+ZBhzY+F9A1a/h/xmWiQ=
 github.com/libdns/libdns v1.1.1 h1:wPrHrXILoSHKWJKGd0EiAVmiJbFShguILTg9leS/P/U=
 github.com/libdns/libdns v1.1.1/go.mod h1:4Bj9+5CQiNMVGf87wjX4CY3HQJypUHRuLvlsfsZqLWQ=
-github.com/libdns/unifi v1.0.0 h1:4JUbWjMpxqZsllJpmPza+Om+BCWNt4Nktf/EX1f94y0=
-github.com/libdns/unifi v1.0.0/go.mod h1:cC1B7R9LVqfRUzTT4SUIvQYD5bRpZ6gb/XFnW/+vUxE=
+github.com/libdns/unifi v1.1.0 h1:3NoSXUB3wATKO1kjazJrq6pt/Eh7SOZH1gHp4U3VWEM=
+github.com/libdns/unifi v1.1.0/go.mod h1:cC1B7R9LVqfRUzTT4SUIvQYD5bRpZ6gb/XFnW/+vUxE=
 github.com/mholt/acmez/v3 v3.1.6 h1:eGVQNObP0pBN4sxqrXeg7MYqTOWyoiYpQqITVWlrevk=
 github.com/mholt/acmez/v3 v3.1.6/go.mod h1:5nTPosTGosLxF3+LU4ygbgMRFDhbAVpqMI4+a4aHLBY=
 github.com/miekg/dns v1.1.72 h1:vhmr+TF2A3tuoGNkLDFK9zi36F2LS+hKTRW0Uf8kbzI=
